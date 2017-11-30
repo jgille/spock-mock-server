@@ -1,0 +1,4 @@
+rootProject.name = 'spock-mock-server'
+include 'service-under-test'
+include 'blackbox-test'
+
